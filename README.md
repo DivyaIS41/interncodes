@@ -1,2 +1,2 @@
-# intern_codes
+# interncodes
 Just a few basic codes!!
